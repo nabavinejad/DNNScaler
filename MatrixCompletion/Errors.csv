@@ -1,0 +1,186 @@
+LEDOV DeepVS							
+Relative error	 no rounding: 3.01383297%						0.00001
+1.25E+01	1.39E+01	 error (percent) = 	11.535185				
+1.63E+01	1.69E+01	 error (percent) = 	3.917245				
+2.33E+01	2.25E+01	 error (percent) = 	3.271954				
+2.31E+01	2.88E+01	 error (percent) = 	24.442529				
+2.54E+01	3.31E+01	 error (percent) = 	30.578932				
+3.37E+01	3.84E+01	 error (percent) = 	13.710124				
+5.04E+01	4.77E+01	 error (percent) = 	5.223314				
+5.28E+01	5.25E+01	 error (percent) = 	0.52583				
+		average	11.65063913				
+DHF1K DeePVS							
+1.17E+01	1.15E+01	 error (percent) = 	1.665759				
+1.57E+01	1.36E+01	 error (percent) = 	13.322228				
+1.87E+01	1.84E+01	 error (percent) = 	1.208118				
+2.17E+01	2.06E+01	 error (percent) = 	5.076531				
+3.06E+01	2.40E+01	 error (percent) = 	21.353066				
+3.71E+01	2.94E+01	 error (percent) = 	20.727932				
+5.36E+01	4.05E+01	 error (percent) = 	24.405138				
+6.10E+01	4.34E+01	 error (percent) = 	28.795878				
+			14.56933125				
+							
+ResNet-V2-50 Imagenet							
+16	1.47E+01	 error (percent) = 	7.852053				
+22	1.75E+01	 error (percent) = 	20.572515				
+29	2.56E+01	 error (percent) = 	11.612427				
+36	2.95E+01	 error (percent) = 	18.143556				
+43	3.15E+01	 error (percent) = 	26.71856				
+51	3.93E+01	 error (percent) = 	22.852601				
+66	5.33E+01	 error (percent) = 	19.187567				
+73	5.58E+01	 error (percent) = 	23.50475				
+			18.80550363				
+PNAS-mob Imagenet							
+27	1.99E+01	 error (percent) = 	26.28911				
+25	2.21E+01	 error (percent) = 	11.621682				
+31	2.94E+01	 error (percent) = 	5.305444				
+38	3.21E+01	 error (percent) = 	15.503529				
+46	3.43E+01	 error (percent) = 	25.451212				
+52	4.21E+01	 error (percent) = 	18.982688				
+66	5.64E+01	 error (percent) = 	14.595483				
+73	6.03E+01	 error (percent) = 	17.35053				
+			16.88745975				
+							
+Nas-mob imagenet							
+26	2.33E+01	 error (percent) = 	10.392419				
+29	2.37E+01	 error (percent) = 	18.447371				
+37	3.01E+01	 error (percent) = 	18.743835				
+41	3.31E+01	 error (percent) = 	19.200418				
+47	3.53E+01	 error (percent) = 	24.98012				
+55	4.31E+01	 error (percent) = 	21.673834				
+71	5.74E+01	 error (percent) = 	19.088863				
+79	6.15E+01	 error (percent) = 	22.183682				
+			19.33881775				
+							
+Mob-V2-14 ImageNet							
+9	9.86E+00	 error (percent) = 	9.568812				
+10	1.06E+01	 error (percent) = 	6.312018				
+13	1.37E+01	 error (percent) = 	5.185025				
+16	1.51E+01	 error (percent) = 	5.642754				
+19	1.67E+01	 error (percent) = 	11.914877				
+23	2.00E+01	 error (percent) = 	13.114313				
+29	2.65E+01	 error (percent) = 	8.580813				
+32	2.87E+01	 error (percent) = 	10.184142				
+			8.81284425				
+							
+Mob-V2-1 ImageNet							
+9	8.86E+00	 error (percent) = 	1.526453				
+10	9.01E+00	 error (percent) = 	9.872895				
+12	1.11E+01	 error (percent) = 	7.822148				
+13	1.20E+01	 error (percent) = 	8.04643				
+15	1.32E+01	 error (percent) = 	11.749458				
+17	1.57E+01	 error (percent) = 	7.488893				
+22	2.06E+01	 error (percent) = 	6.362845				
+28	2.23E+01	 error (percent) = 	20.293366				
+			9.145311				
+Mob-V1-025 ImageNet							
+9	6.46E+00	 error (percent) = 	28.215728				
+8	5.21E+00	 error (percent) = 	34.87496				
+7	5.05E+00	 error (percent) = 	27.828451				
+5	4.69E+00	 error (percent) = 	6.284665				
+5	5.07E+00	 error (percent) = 	1.38921				
+5	5.50E+00	 error (percent) = 	10.080704				
+7	6.57E+00	 error (percent) = 	6.094554				
+7	7.95E+00	 error (percent) = 	13.605819				
+			16.04676138				
+Mob-V1-05 ImageNet							
+9	6.84E+00	 error (percent) = 	24.004763				
+9	5.72E+00	 error (percent) = 	36.461072				
+7	6.00E+00	 error (percent) = 	14.356301				
+5	5.82E+00	 error (percent) = 	16.386096				
+6	6.26E+00	 error (percent) = 	4.343492				
+7	6.93E+00	 error (percent) = 	1.068151				
+8	8.66E+00	 error (percent) = 	8.306126				
+10	9.96E+00	 error (percent) = 	0.444225				
+			13.17127825				
+Mob-V1-1 ImageNet							
+10	7.64E+00	 error (percent) = 	23.56225				
+9	7.15E+00	 error (percent) = 	20.592641				
+7	8.30E+00	 error (percent) = 	18.638971				
+8	8.40E+00	 error (percent) = 	5.005688				
+10	9.14E+00	 error (percent) = 	8.562817				
+11	1.06E+01	 error (percent) = 	3.60691				
+15	1.35E+01	 error (percent) = 	9.824761				
+16	1.52E+01	 error (percent) = 	5.01974				
+			11.85172225				
+Incv2 imagenet							
+14	1.27E+01	 error (percent) = 	9.56839				
+18	1.52E+01	 error (percent) = 	15.464883				
+24	2.17E+01	 error (percent) = 	9.454757				
+29	2.51E+01	 error (percent) = 	13.383093				
+35	2.74E+01	 error (percent) = 	21.630627				
+41	3.39E+01	 error (percent) = 	17.376526				
+53	4.56E+01	 error (percent) = 	13.938594				
+59	4.82E+01	 error (percent) = 	18.243287				
+			14.88251963				
+Inc v1 imagenet							
+11	1.09E+01	 error (percent) = 	0.512434				
+14	1.24E+01	 error (percent) = 	11.413495				
+17	1.69E+01	 error (percent) = 	0.661734				
+21	1.91E+01	 error (percent) = 	9.10351				
+25	2.11E+01	 error (percent) = 	15.401306				
+29	2.57E+01	 error (percent) = 	11.328209				
+38	3.42E+01	 error (percent) = 	9.969853				
+42	3.67E+01	 error (percent) = 	12.552121				
+			8.86783275				
+							
+Mob-V2-14 Caltech							
+9	7.97E+00	 error (percent) = 	11.488995				
+10	9.32E+00	 error (percent) = 	6.818778				
+13	1.27E+01	 error (percent) = 	1.926709				
+16	1.46E+01	 error (percent) = 	8.821207				
+20	1.62E+01	 error (percent) = 	19.063133				
+23	1.97E+01	 error (percent) = 	14.361803				
+29	2.63E+01	 error (percent) = 	9.33633				
+32	2.82E+01	 error (percent) = 	11.853721				
+			10.4588345				
+Mob-V2-1 Caltech							
+7	7.11E+00	 error (percent) = 	1.538639				
+10	7.82E+00	 error (percent) = 	21.802348				
+12	1.03E+01	 error (percent) = 	14.563279				
+13	1.15E+01	 error (percent) = 	11.512904				
+15	1.28E+01	 error (percent) = 	14.632674				
+17	1.54E+01	 error (percent) = 	9.325971				
+22	2.04E+01	 error (percent) = 	7.226685				
+24	2.21E+01	 error (percent) = 	8.060654				
+			11.08289425				
+Mob-V1-025 Caltech							
+5	3.83E+00	 error (percent) = 	23.363121				
+4	3.52E+00	 error (percent) = 	11.906456				
+5	3.88E+00	 error (percent) = 	22.438767				
+4	3.93E+00	 error (percent) = 	1.803506				
+4	4.32E+00	 error (percent) = 	7.914234				
+5	4.95E+00	 error (percent) = 	1.02152				
+6	6.32E+00	 error (percent) = 	5.41123				
+7	7.10E+00	 error (percent) = 	1.461785				
+			9.415077375				
+Mob-V1-05 Caltech							
+5	3.98E+00	 error (percent) = 	20.336387				
+4	3.78E+00	 error (percent) = 	5.427991				
+4	4.32E+00	 error (percent) = 	7.951788				
+5	4.44E+00	 error (percent) = 	11.141109				
+6	4.89E+00	 error (percent) = 	18.52431				
+7	5.66E+00	 error (percent) = 	19.082072				
+8	7.31E+00	 error (percent) = 	8.572836				
+9	8.14E+00	 error (percent) = 	9.521189				
+			12.56971025				
+Mob-V1-1 Caltech							
+5	5.53E+00	 error (percent) = 	10.533328				
+5	5.74E+00	 error (percent) = 	14.815671				
+6	7.15E+00	 error (percent) = 	19.208739				
+8	7.75E+00	 error (percent) = 	3.096191				
+10	8.57E+00	 error (percent) = 	14.335915				
+11	1.02E+01	 error (percent) = 	7.061962				
+14	1.34E+01	 error (percent) = 	4.15326				
+16	1.46E+01	 error (percent) = 	8.587738				
+			10.2241005				
+Inc V1 - Clatech							
+11	1.09E+01	 error (percent) = 	0.539767				
+13	1.25E+01	 error (percent) = 	3.935435				
+17	1.69E+01	 error (percent) = 	0.702459				
+21	1.91E+01	 error (percent) = 	9.097463				
+25	2.11E+01	 error (percent) = 	15.406781				
+29	2.57E+01	 error (percent) = 	11.328685				
+38	3.42E+01	 error (percent) = 	9.970086				
+42	3.67E+01	 error (percent) = 	12.552366				
+			7.94163025				
