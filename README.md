@@ -8,6 +8,7 @@ To improve the inference throughputof DNNs deployed on GPU accelerators, two com
 * CUDA
 * cuDNN
 * Matlab
+* TFOCS (http://cvxr.com/tfocs/)
 
 ## DNN Models
 We have chosen sixteen DNNs with different characteristics such as size and computational complexity to show the applicability of BatchDVFS on a wide variety of DNNs. The DNNs have been selected from [TensorFlow-Slim image classification model library](https://github.com/tensorflow/models/tree/master/research/slim). We have followed the instructions provided in the aforementioned library to generate the frozen graphs of the pre-trained models. **You can download the frozen graphs from this [link](https://drive.google.com/file/d/1QJFxeoO_gmZiK-vzM75OQnA0XjL5ZL9P/view?usp=sharing)**
