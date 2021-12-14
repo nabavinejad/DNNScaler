@@ -17,6 +17,6 @@ We have two image datasets, one from [ImageNet](http://www.image-net.org/) which
 
 ## Usage
 
-There are three folders in the repository: BatchDVFS, Clipper, and DVFS that are equivalent to approaches presented in the paper. Inside each folder, there is another one that contains the results of the experiments that we have conducted and presented in the paper. In addition to that, there are 16 .py files that correspond to the 16 DNNs. The .sh file is used for launching the jobs in the experiments. We have assumed that the .py files and the frozen graphs (.pb) are in the same directory.
+The Batching and Multi-Tenancy folders contain the python files for DNNScaler. The Clipper folder contains python files for Clipper approach. The python files need to be copied in a folder that contains the frozen graphs and the datasets. Then, by executing the commands in the .sh files, the experiments can be conducted.
 
-Moreover, there is an extra folder in BatchDVFS folder, named SensitiviyAnalysis that includes the files needed for conducting the sensitivity analysis experiments. The .py files in this folder are slightly different from the ones in the main folder and enable the dynmiac power cap change during the execution of a model.
+The MatrixCompletion folder also contains the files for MC estimation. The TFOCS needs to be downloaded, and its path should be updated in the .m file.
